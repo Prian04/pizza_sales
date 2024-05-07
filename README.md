@@ -19,3 +19,5 @@ Its essential to note that a detailed SQL query has been crafted to extract and 
 
 Conclusion:-
 By tracking key performance indicators, identifying trends, and visualizing top and bottom-selling pizzas, businesses can make data-driven decisions to enhance their product offerings, improve marketing strategies, and maximize profitability. The inclusion of dynamic slicers in the second dashboard enhances the user experience, allowing for interactive exploration of sales data based on pizza categories and date ranges. This feature enables stakeholders to research deeper into specific segments of interest and gain actionable insights.
+
+Note:- For quick view or reference the powerbi visual charts is exported in pdf format i.e pizza_sales.pdf
